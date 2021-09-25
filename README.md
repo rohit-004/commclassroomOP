@@ -2,3 +2,5 @@
 
 - Kunal Kushwaha says that this community is amazing.
 - Kunal made this change
+
+ - Thank you kunal for making this course
